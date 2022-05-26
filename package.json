@@ -8,7 +8,7 @@
   },
   "engines": {
     "npm": ">=5",
-    "node": ">=8.15.1"
+    "node": ">=8.15.1 <=16.15"
   },
   "author": "Max Stoiber",
   "license": "MIT",
@@ -77,7 +77,7 @@
     "immer": "3.0.0",
     "intl": "1.2.5",
     "invariant": "2.2.4",
-    "ip": "1.1.5",
+    "ip": "^1.1.5",
     "lodash": "^4.17.15",
     "minimist": "1.2.0",
     "prop-types": "15.7.2",
