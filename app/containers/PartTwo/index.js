@@ -189,7 +189,7 @@ export function PartTwo() {
   return (
     <Layout>
       <Helmet>
-        <title>PartTwo</title>
+        <title>Labels - Part 2</title>
         <meta name="Part 2" content="Prodigal Assignment Part 2" />
       </Helmet>
       <PageHeader title="Prodigal Assignment" subTitle="Part 2 - Labels" />
